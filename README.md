@@ -9,4 +9,5 @@ Link to webpage: https://aaray12.github.io/HW1_code-refactor_AR/
 
 Screenshot of Deployed Webpage:
 
-![screenshot 1] (https://github.com/aaray12/HW1_code-refactor_AR/blob/master/Screen%20Shot%202020-09-19%20at%201.38.32%20PM.png)
+![screenshot 1](https://github.com/aaray12/HW1_code-refactor_AR/blob/master/Screen%20Shot%202020-09-19%20at%201.38.32%20PM.png)
+![screen shot 2](https://github.com/aaray12/HW1_code-refactor_AR/blob/master/Screen%20Shot%202020-09-19%20at%201.38.43%20PM.png)
